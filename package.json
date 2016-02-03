@@ -1,0 +1,17 @@
+{
+  "name": "competitor-analysis",
+  "version": "1.0.0",
+  "description": "Competitor analysis tool for android developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya",
+  "license": "Apache",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest",
+    "socket.io": "latest"
+  }
+}
