@@ -14,5 +14,6 @@ Give it the package names of your app and your enemy's and it'll spit out a simp
 3. Run
 
   `node app`
+  
 4. Go to `http://localhost:26000/competitor-analysis/` in any browser. Voila!
 
