@@ -3,8 +3,6 @@ This is a play store scraper built with Node.JS
 
 Give it the package names of your app and your enemy's and it'll spit out a simple comparison between the apps.
 
-A live version is available at http://apps.adityaanand.in/competitor-analysis/
-
 ## How to run locally
 1. Download the repository
 
